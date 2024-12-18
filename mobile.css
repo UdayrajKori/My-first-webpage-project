@@ -1,0 +1,313 @@
+@media screen and (max-width:500px)
+{
+    .Logo
+    {
+        font-size: 1rem;
+    }
+.headerBtn a{
+  
+    font-size: 0.5rem;
+}
+
+.menu a{
+ 
+    font-size: 0.5rem;
+}
+
+/* hero style */
+
+.hero {
+  flex-direction: column;
+}
+
+.hero_title {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.hero_paragraph {
+  text-align: center;
+  font-size: 0.8em;
+  padding: 0.5em;
+  text-align: justify;
+}
+
+.hero_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero_btn1 {
+  width: 9em;
+  font-size: 0.6em;
+  margin-right: 1em;
+}
+.hero_btn2 {
+  width: 7em;
+  font-size: 0.6em;
+}
+
+.hero_image img{
+  display: flex;
+  width: 100vw;
+  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+/* three section */
+
+.three {
+  flex-direction: column;
+  margin-top: 2em;
+}
+
+.three_title {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.three_paragraph {
+  text-align: center;
+  font-size: 0.8em;
+  padding: 0.5em;
+  text-align: justify;
+}
+
+.three_btn1 {
+  width: 7em;
+  font-size: 1em;
+}
+.three_btn2 {
+  width: 7em;
+  font-size: 1em;
+}
+
+.logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.logo1 img{
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.logo1 h1{
+
+    font-size: 0.7em;
+    color: #111b47;
+}
+
+.logo1 p{
+
+    font-size: 0.5em;
+    color: #505f98;
+}
+
+.logo2 img{
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.logo2 h1{
+
+    font-size: 0.7em;
+    color: #111b47;
+}
+
+.logo2 p{
+
+    font-size: 0.5em;
+    color: #505f98;
+}
+
+.three_image img{
+  display: flex;
+  width: 100vw;
+  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
+/* section 4 */
+
+.section4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 1em;
+}
+
+.section_4_info {
+  margin-top: 1em;
+}
+
+.section_4_title {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.section_4_paragraph {
+  text-align: center;
+  font-size: 0.8em;
+  padding: 1em;
+  text-align: justify;
+}
+
+
+.secton_4_image img{
+  display: flex;
+  width: 100vw;
+  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+/* section 5 */
+
+.section5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 5em;
+}
+
+.section_5_info {
+  margin-top: 1em;
+}
+
+.section_5_title {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.section_5_paragraph {
+  text-align: center;
+  font-size: 0.8em;
+  padding: 1em;
+  text-align: justify;
+}
+
+
+.secton_5_image img{
+  display: flex;
+  width: 100vw;
+  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+/* section 6 */
+
+.section6{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 5em;
+}
+
+.section_6_info {
+  margin-top: 1em;
+}
+
+.section_6_title {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.section_6_paragraph {
+  text-align: center;
+  font-size: 0.8em;
+  padding: 1em;
+  text-align: justify;
+}
+
+
+.secton_6_image img{
+  display: flex;
+  width: 100vw;
+  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.section_6_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section_6_btn1 {
+  width: 9em;
+  font-size: 0.6em;
+}
+
+.top_footer {
+  margin-top: 5em;
+}
+
+.top_footer_title {
+  font-size: 1.2em;
+}
+
+.top_footer_paragraph {
+  width: 70%;
+  text-align: justify;
+  font-size: 0.8em;
+}
+.top_footer_dollor {
+  font-size: 2em;
+  
+}
+.span{
+  font-size: 0.6em;
+}
+
+.price {
+  font-size: 0.7em;
+}
+
+.top_footer_btn {
+  width: 9em;
+  font-size: 0.6em;
+}
+
+.company {
+  font-size: 0.5em;
+}
+
+.footer_logo {
+  font-size: 1em;
+}
+
+.footer_btn button {
+   font-size: 0.5em;
+}
+
+.line {
+  width: 90%;
+  height: 1.3px;
+  background: #000;
+}
+
+.footer_navbar a{
+  font-size:0.5rem;
+}
+.footer_navbar_icons a {
+  font-size:0.5rem;
+
+}
+}
